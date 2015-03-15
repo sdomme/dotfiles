@@ -5,6 +5,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "solid",
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"theme": "Soda Dark 3.sublime-theme",
 	"detect_indentation": true,
 	"draw_indent_guides": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -34,7 +35,6 @@
 	"index_exclude_patterns":
 	[
 		"*.log",
-		"D:\\git\\is24-network-generator\\.git*",
 		".svn*"
 	],
 	"line_padding_bottom": 0,
@@ -58,7 +58,6 @@
 	"show_full_path": true,
 	"show_minimap": false,
 	"tab_size": 4,
-	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true,
